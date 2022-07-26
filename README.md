@@ -1,4 +1,4 @@
-Hello, Everyone 🟟
+Hello, Everyone
 
 I am a proficient hands-on professional with a long record of accomplishments in the Computer Software industry. I possesse advanced knowledge and experience in software design, development, object-oriented software development, and database development.
 
