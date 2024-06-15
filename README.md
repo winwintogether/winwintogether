@@ -4,6 +4,8 @@
 
 🔭 I have been developing web applications for a little while now and within the years of experience, I have explored multiple areas of the stack, especially the sweet spot where I get to combine my technical skills with my diversity and inclusion advocacy to build inclusive, accessible and ethical software. Constantly embracing new technologies and frameworks, I'm on a perpetual journey of growth and learning. From frontend to backend, I'm well-versed in various stacks and love experimenting with emerging paradigms.
 
+---
+
 ⚡️ **Skillset:**
 - Frontend: React, Next.js, Vue.js, Nuxt.js, Angular, JavaScript, HTML, CSS
 - CSS Framework: TailWind CSS, Bootstrap, Material UI, Ant Design 
@@ -13,15 +15,6 @@
 - IDEs: VS Code, PHPStorm, WebStorm, Pycharm
 - Version Control: Git, Bitbucket, Gitlab, SVN
 
-💪 My strengths are crafting intuitive user interfaces, designing robust backend systems, and optimizing code performance. I thrive in collaborative environments where I can bring ideas to life and work towards shared goals.
-
-🌐 Passionate about open source, I actively contribute to various projects and believe in the power of community-driven development. Sharing knowledge is key, and I enjoy writing technical articles and speaking at tech conferences.
-
-📫 Let's connect and collaborate! I'm always excited to discuss new projects, exchange ideas, or engage in the beautiful world of code.
-
-🌟 Stay curious, keep coding, and let's make the world a better place together! 🚀
-
-###
 ![react native](https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![react](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![typescript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,3 +48,12 @@
 ![docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+
+
+💪 My strengths are crafting intuitive user interfaces, designing robust backend systems, and optimizing code performance. I thrive in collaborative environments where I can bring ideas to life and work towards shared goals.
+
+🌐 Passionate about open source, I actively contribute to various projects and believe in the power of community-driven development. Sharing knowledge is key, and I enjoy writing technical articles and speaking at tech conferences.
+
+📫 Let's connect and collaborate! I'm always excited to discuss new projects, exchange ideas, or engage in the beautiful world of code.
+
+🌟 Stay curious, keep coding, and let's make the world a better place together! 🚀
