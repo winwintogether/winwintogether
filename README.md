@@ -21,7 +21,7 @@
 
 🌟 Stay curious, keep coding, and let's make the world a better place together! 🚀
 
-### � &nbsp; my favorite languages + tools :
+###
 ![react native](https://img.shields.io/badge/react_native-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![react](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![typescript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
