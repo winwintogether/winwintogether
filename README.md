@@ -1,4 +1,4 @@
-🌟 Full Stack Developer
+🌟 Full-Stack | Web Developer
 
 I have been developing web applications for a little while now and within the years of experience, I have explored multiple areas of the stack, especially the sweet spot where I get to combine my technical skills with my diversity and inclusion advocacy to build inclusive, accessible and ethical software.
 
