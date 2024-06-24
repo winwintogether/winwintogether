@@ -1,6 +1,6 @@
 🌟 Full Stack Developer
 
-I have been developing web applications for a little while now and within the years of experience, I have explored multiple areas of the stack, especially the sweet spot where I get to combine my technical skills with my diversity and inclusion advocacy to build inclusive, accessible and ethical software. Constantly embracing new technologies and frameworks, I'm on a perpetual journey of growth and learning. From frontend to backend, I'm well-versed in various stacks and love experimenting with emerging paradigms.
+I have been developing web applications for a little while now and within the years of experience, I have explored multiple areas of the stack, especially the sweet spot where I get to combine my technical skills with my diversity and inclusion advocacy to build inclusive, accessible and ethical software.
 
 ---
 
