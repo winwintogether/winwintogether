@@ -36,14 +36,12 @@
 ![maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache%20maven&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- React, Next.js, React Native 
-- Vue, Nuxt.js
-- Angular.js, Angular
+- React, Next.js, Angular.js, Angular, Vue, Nuxt.js
 - Node.js (Express.js, Nest.js, Hapi.js, Meteor.js)
 - TypeScript, Bootstrap, TailWind, Material UI
 - Python (Django, Flask, FastAPI)
 - Flutter (for cross-platform mobile apps)
-- Kotlin (for native Android development)
+- React Native, Kotlin (for native Android development)
 - Swift (for native iOS development)
 - Java (for native Android development)
 - Git (for version control)
